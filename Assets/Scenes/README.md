@@ -1,1 +1,3 @@
-### This folder contain all scenes
+### This folder contains only:
+
+*.unity

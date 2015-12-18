@@ -1,0 +1,2034 @@
+fileFormatVersion: 2
+guid: 620a8ba9ac9d3184dba49bbfd177ada0
+timeCreated: 1450367010
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orc_0
+    21300002: orc_1
+    21300004: orc_2
+    21300006: orc_3
+    21300008: orc_4
+    21300010: orc_5
+    21300012: orc_6
+    21300014: orc_7
+    21300016: orc_8
+    21300018: orc_9
+    21300020: orc_10
+    21300022: orc_11
+    21300024: orc_12
+    21300026: orc_13
+    21300028: orc_14
+    21300030: orc_15
+    21300032: orc_16
+    21300034: orc_17
+    21300036: orc_18
+    21300038: orc_19
+    21300040: orc_20
+    21300042: orc_21
+    21300044: orc_22
+    21300046: orc_23
+    21300048: orc_24
+    21300050: orc_25
+    21300052: orc_26
+    21300054: orc_27
+    21300056: orc_28
+    21300058: orc_29
+    21300060: orc_30
+    21300062: orc_31
+    21300064: orc_32
+    21300066: orc_33
+    21300068: orc_34
+    21300070: orc_35
+    21300072: orc_36
+    21300074: orc_37
+    21300076: orc_38
+    21300078: orc_39
+    21300080: orc_40
+    21300082: orc_41
+    21300084: orc_42
+    21300086: orc_43
+    21300088: orc_44
+    21300090: orc_45
+    21300092: orc_46
+    21300094: orc_47
+    21300096: orc_48
+    21300098: orc_49
+    21300100: orc_50
+    21300102: orc_51
+    21300104: orc_52
+    21300106: orc_53
+    21300108: orc_54
+    21300110: orc_55
+    21300112: orc_56
+    21300114: orc_57
+    21300116: orc_58
+    21300118: orc_59
+    21300120: orc_60
+    21300122: orc_61
+    21300124: orc_62
+    21300126: orc_63
+    21300128: orc_64
+    21300130: orc_65
+    21300132: orc_66
+    21300134: orc_67
+    21300136: orc_68
+    21300138: orc_69
+    21300140: orc_70
+    21300142: orc_71
+    21300144: orc_72
+    21300146: orc_73
+    21300148: orc_74
+    21300150: orc_75
+    21300152: orc_76
+    21300154: orc_77
+    21300156: orc_78
+    21300158: orc_79
+    21300160: orc_80
+    21300162: orc_81
+    21300164: orc_82
+    21300166: orc_83
+    21300168: orc_84
+    21300170: orc_85
+    21300172: orc_86
+    21300174: orc_87
+    21300176: orc_88
+    21300178: orc_89
+    21300180: orc_90
+    21300182: orc_91
+    21300184: orc_92
+    21300186: orc_93
+    21300188: orc_94
+    21300190: orc_95
+    21300192: orc_96
+    21300194: orc_97
+    21300196: orc_98
+    21300198: orc_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: orc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -15, y: 11}
+        - {x: -15, y: -8}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: orc_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -15, y: 11}
+        - {x: -15, y: -8}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: orc_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -10}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 7}
+    - name: orc_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -10}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 7}
+    - name: orc_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -2}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+    - name: orc_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -2}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 13}
+        - {x: 9, y: 16}
+    - name: orc_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -2}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 13}
+        - {x: 9, y: 16}
+    - name: orc_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -2}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+    - name: orc_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -10}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 7}
+    - name: orc_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -10}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 7}
+    - name: orc_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: 3}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+    - name: orc_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -6}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+    - name: orc_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -6}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+    - name: orc_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -6}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+    - name: orc_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: 1}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 5}
+        - {x: 8, y: 16}
+    - name: orc_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: 5, y: 16}
+        - {x: -5, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+    - name: orc_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 8, y: 16}
+        - {x: -8, y: 16}
+        - {x: -12, y: 13}
+    - name: orc_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 15}
+        - {x: 5, y: 16}
+        - {x: -5, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+    - name: orc_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 8, y: 16}
+        - {x: -8, y: 16}
+        - {x: -12, y: 13}
+    - name: orc_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: 2}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -10}
+        - {x: 11, y: 6}
+        - {x: 6, y: 16}
+    - name: orc_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+        - {x: -8, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -12}
+        - {x: -14, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -14}
+        - {x: 10, y: -9}
+        - {x: 10, y: -3}
+    - name: orc_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -11}
+        - {x: -14, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 6}
+        - {x: 7, y: 16}
+    - name: orc_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 0}
+        - {x: 9, y: 7}
+    - name: orc_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 10}
+        - {x: 3, y: 16}
+    - name: orc_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: 4, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -10}
+        - {x: -13, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -12}
+        - {x: 10, y: -4}
+    - name: orc_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -12}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 10}
+        - {x: 7, y: 16}
+    - name: orc_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 9}
+        - {x: 4, y: 16}
+    - name: orc_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 7}
+        - {x: 6, y: 16}
+        - {x: -11, y: 16}
+        - {x: -16, y: 9}
+    - name: orc_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -9}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 4}
+        - {x: 6, y: 16}
+    - name: orc_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -10}
+        - {x: -14, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 4, y: 16}
+    - name: orc_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -15, y: 12}
+        - {x: -15, y: -1}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 13}
+        - {x: 8, y: 16}
+    - name: orc_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 12}
+        - {x: -14, y: 1}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: orc_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 15}
+        - {x: -10, y: 15}
+        - {x: -14, y: 13}
+        - {x: -14, y: -4}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 12}
+        - {x: 7, y: 13}
+    - name: orc_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 15}
+        - {x: -9, y: 15}
+        - {x: -13, y: 12}
+        - {x: -13, y: -8}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 13}
+    - name: orc_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -16, y: 12}
+        - {x: -16, y: -12}
+        - {x: -13, y: -16}
+        - {x: 8, y: -16}
+        - {x: 6, y: 5}
+        - {x: 1, y: 16}
+    - name: orc_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -5}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: -3}
+        - {x: 2, y: 16}
+    - name: orc_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -13, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -11}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 16, y: -3}
+        - {x: 16, y: 12}
+    - name: orc_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -9}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 10}
+        - {x: 9, y: 16}
+    - name: orc_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: -4}
+        - {x: 14, y: -2}
+    - name: orc_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 10}
+        - {x: 7, y: 15}
+        - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -4}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+    - name: orc_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -3}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 7, y: 15}
+    - name: orc_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -3}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 16}
+    - name: orc_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -6, y: 14}
+        - {x: -15, y: 2}
+        - {x: -15, y: -3}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 11}
+        - {x: 8, y: 15}
+    - name: orc_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -15, y: -2}
+        - {x: -15, y: -8}
+        - {x: -8, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 5}
+        - {x: 8, y: 13}
+    - name: orc_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -14, y: -14}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: -3}
+        - {x: 7, y: 11}
+    - name: orc_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 10}
+        - {x: -2, y: 10}
+        - {x: -9, y: 8}
+        - {x: -15, y: -6}
+        - {x: -15, y: -14}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -15}
+        - {x: 13, y: -9}
+        - {x: 11, y: 0}
+    - name: orc_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -15, y: -9}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -6}
+        - {x: 7, y: 10}
+    - name: orc_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: -4, y: 10}
+        - {x: -15, y: -12}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -15}
+        - {x: 13, y: -1}
+    - name: orc_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 8}
+        - {x: -9, y: 8}
+        - {x: -15, y: -8}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -11}
+        - {x: 8, y: 5}
+    - name: orc_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -15, y: -15}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -8}
+        - {x: 9, y: 5}
+    - name: orc_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 4}
+    - name: orc_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 14}
+        - {x: 8, y: 15}
+    - name: orc_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 4}
+    - name: orc_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 4}
+    - name: orc_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 14}
+        - {x: 8, y: 15}
+    - name: orc_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 4}
+    - name: orc_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 8}
+        - {x: -9, y: -11}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 4}
+    - name: orc_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: 4, y: 16}
+        - {x: -4, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 7}
+    - name: orc_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 5}
+        - {x: 9, y: 15}
+        - {x: 8, y: 16}
+        - {x: -5, y: 16}
+        - {x: -9, y: 14}
+    - name: orc_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -14}
+        - {x: 12, y: -11}
+        - {x: 13, y: -7}
+        - {x: 13, y: 3}
+        - {x: 6, y: 16}
+        - {x: -4, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+    - name: orc_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 13}
+        - {x: -9, y: 12}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 15}
+        - {x: 12, y: 16}
+    - name: orc_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 12}
+        - {x: 9, y: 11}
+        - {x: 3, y: 16}
+        - {x: -5, y: 16}
+        - {x: -8, y: 12}
+        - {x: -9, y: 7}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -8}
+        - {x: 14, y: 12}
+    - name: orc_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -5, y: 16}
+        - {x: -8, y: 12}
+        - {x: -9, y: 7}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -5}
+        - {x: 15, y: 15}
+    - name: orc_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 4}
+        - {x: 8, y: 15}
+      - - {x: 9, y: 16}
+        - {x: 7, y: 12}
+        - {x: 7, y: 9}
+        - {x: 9, y: 3}
+        - {x: 11, y: 3}
+        - {x: 13, y: 4}
+        - {x: 15, y: 7}
+        - {x: 15, y: 14}
+        - {x: 14, y: 16}
+    - name: orc_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 10}
+        - {x: 9, y: 16}
+      - - {x: 10, y: 16}
+        - {x: 7, y: 13}
+        - {x: 7, y: 12}
+        - {x: 12, y: 7}
+        - {x: 15, y: 7}
+        - {x: 15, y: 16}
+    - name: orc_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -5, y: 16}
+        - {x: -8, y: 11}
+        - {x: -9, y: 1}
+        - {x: -9, y: -13}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 1}
+        - {x: 8, y: 15}
+    - name: orc_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 12}
+        - {x: -11, y: -3}
+        - {x: -11, y: -15}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 3}
+        - {x: 8, y: 15}
+    - name: orc_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 16}
+    - name: orc_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -3, y: 16}
+        - {x: -11, y: 14}
+        - {x: -11, y: -15}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: -2}
+        - {x: 6, y: 13}
+    - name: orc_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -10, y: 6}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 6}
+        - {x: 8, y: 15}
+    - name: orc_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -9, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 12}
+        - {x: 8, y: 15}
+    - name: orc_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 1}
+        - {x: -11, y: -15}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 11}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 12}
+    - name: orc_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -4}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 6}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 12}
+    - name: orc_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 12}
+        - {x: -10, y: -13}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 3}
+        - {x: 8, y: 14}
+    - name: orc_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: orc_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 9}
+        - {x: 7, y: 16}
+    - name: orc_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 9}
+        - {x: 7, y: 16}
+    - name: orc_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: orc_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -5, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 1}
+        - {x: 7, y: 14}
+    - name: orc_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -11}
+        - {x: 9, y: 3}
+        - {x: 8, y: 15}
+    - name: orc_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 9}
+        - {x: 8, y: 15}
+    - name: orc_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -3, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: -13}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -11}
+        - {x: 14, y: -1}
+        - {x: 14, y: 3}
+    - name: orc_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 12}
+        - {x: -10, y: -12}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 15}
+    - name: orc_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 4}
+        - {x: 8, y: 15}
+    - name: orc_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -5, y: 16}
+        - {x: -7, y: 15}
+        - {x: -8, y: 7}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+    - name: orc_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -5, y: 16}
+        - {x: -8, y: 12}
+        - {x: -8, y: -10}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 13}
+    - name: orc_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 13}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 13}
+    - name: orc_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 9}
+        - {x: -7, y: 7}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 1}
+        - {x: 8, y: 9}
+    - name: orc_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 7}
+        - {x: -8, y: -4}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 5}
+        - {x: 11, y: 7}
+    - name: orc_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 3}
+        - {x: -3, y: -2}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 1}
+        - {x: 7, y: 3}
+    - name: orc_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: -11, y: -15}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -10}
+        - {x: 10, y: 0}
+    - name: orc_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -3}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -4}
+        - {x: 10, y: -3}
+    - name: orc_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -16}
+        - {x: 15, y: -16}
+        - {x: 14, y: -11}
+        - {x: 12, y: -7}
+        - {x: 2, y: -7}
+        - {x: -12, y: -11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

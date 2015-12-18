@@ -1,0 +1,2031 @@
+fileFormatVersion: 2
+guid: 66b1d6ffb6c831a4e8953188d324f041
+timeCreated: 1450356397
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cleric_0
+    21300002: cleric_1
+    21300004: cleric_2
+    21300006: cleric_3
+    21300008: cleric_4
+    21300010: cleric_5
+    21300012: cleric_6
+    21300014: cleric_7
+    21300016: cleric_8
+    21300018: cleric_9
+    21300020: cleric_10
+    21300022: cleric_11
+    21300024: cleric_12
+    21300026: cleric_13
+    21300028: cleric_14
+    21300030: cleric_15
+    21300032: cleric_16
+    21300034: cleric_17
+    21300036: cleric_18
+    21300038: cleric_19
+    21300040: cleric_20
+    21300042: cleric_21
+    21300044: cleric_22
+    21300046: cleric_23
+    21300048: cleric_24
+    21300050: cleric_25
+    21300052: cleric_26
+    21300054: cleric_27
+    21300056: cleric_28
+    21300058: cleric_29
+    21300060: cleric_30
+    21300062: cleric_31
+    21300064: cleric_32
+    21300066: cleric_33
+    21300068: cleric_34
+    21300070: cleric_35
+    21300072: cleric_36
+    21300074: cleric_37
+    21300076: cleric_38
+    21300078: cleric_39
+    21300080: cleric_40
+    21300082: cleric_41
+    21300084: cleric_42
+    21300086: cleric_43
+    21300088: cleric_44
+    21300090: cleric_45
+    21300092: cleric_46
+    21300094: cleric_47
+    21300096: cleric_48
+    21300098: cleric_49
+    21300100: cleric_50
+    21300102: cleric_51
+    21300104: cleric_52
+    21300106: cleric_53
+    21300108: cleric_54
+    21300110: cleric_55
+    21300112: cleric_56
+    21300114: cleric_57
+    21300116: cleric_58
+    21300118: cleric_59
+    21300120: cleric_60
+    21300122: cleric_61
+    21300124: cleric_62
+    21300126: cleric_63
+    21300128: cleric_64
+    21300130: cleric_65
+    21300132: cleric_66
+    21300134: cleric_67
+    21300136: cleric_68
+    21300138: cleric_69
+    21300140: cleric_70
+    21300142: cleric_71
+    21300144: cleric_72
+    21300146: cleric_73
+    21300148: cleric_74
+    21300150: cleric_75
+    21300152: cleric_76
+    21300154: cleric_77
+    21300156: cleric_78
+    21300158: cleric_79
+    21300160: cleric_80
+    21300162: cleric_81
+    21300164: cleric_82
+    21300166: cleric_83
+    21300168: cleric_84
+    21300170: cleric_85
+    21300172: cleric_86
+    21300174: cleric_87
+    21300176: cleric_88
+    21300178: cleric_89
+    21300180: cleric_90
+    21300182: cleric_91
+    21300184: cleric_92
+    21300186: cleric_93
+    21300188: cleric_94
+    21300190: cleric_95
+    21300192: cleric_96
+    21300194: cleric_97
+    21300196: cleric_98
+    21300198: cleric_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cleric_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -6}
+        - {x: 9, y: 7}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: -1}
+        - {x: -12, y: -4}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -7, y: 16}
+        - {x: -11, y: 7}
+        - {x: -11, y: -2}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: 7}
+    - name: cleric_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -12, y: 8}
+        - {x: -12, y: -3}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+    - name: cleric_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -12, y: 8}
+        - {x: -12, y: -3}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+    - name: cleric_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -7, y: 16}
+        - {x: -11, y: 7}
+        - {x: -11, y: -2}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: 7}
+    - name: cleric_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -6}
+        - {x: 9, y: 7}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -11, y: -3}
+        - {x: -11, y: -4}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: 8}
+        - {x: 6, y: 16}
+    - name: cleric_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -14}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: cleric_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -2}
+        - {x: 11, y: 7}
+        - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -10, y: 12}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -4}
+        - {x: 11, y: 11}
+        - {x: 6, y: 16}
+        - {x: -5, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 1}
+        - {x: 11, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -10, y: 7}
+        - {x: -10, y: -14}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -2}
+        - {x: 11, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -13}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -3}
+        - {x: 11, y: 13}
+        - {x: 6, y: 16}
+        - {x: -5, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -12}
+        - {x: 10, y: 16}
+    - name: cleric_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 11}
+        - {x: -11, y: -4}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 15}
+        - {x: 7, y: 16}
+    - name: cleric_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -10}
+        - {x: 9, y: 10}
+    - name: cleric_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -6}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 8}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: 5}
+    - name: cleric_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -13, y: 4}
+        - {x: -13, y: -7}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -7}
+        - {x: 10, y: 7}
+        - {x: 9, y: 15}
+    - name: cleric_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -13, y: -1}
+        - {x: -13, y: -4}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: 4}
+    - name: cleric_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -11}
+        - {x: 9, y: 9}
+    - name: cleric_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 13}
+        - {x: -13, y: -4}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: 7}
+        - {x: 8, y: 16}
+    - name: cleric_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: -4}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -15}
+        - {x: 10, y: -7}
+        - {x: 10, y: 2}
+    - name: cleric_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -6}
+        - {x: 10, y: 4}
+    - name: cleric_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 9}
+        - {x: 8, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: -3}
+    - name: cleric_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -10}
+        - {x: 9, y: 9}
+        - {x: 8, y: 15}
+    - name: cleric_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -4}
+        - {x: 9, y: 6}
+        - {x: 7, y: 13}
+    - name: cleric_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 5}
+        - {x: 7, y: 16}
+    - name: cleric_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: cleric_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -8, y: 16}
+        - {x: -16, y: -3}
+        - {x: -16, y: -11}
+        - {x: -15, y: -14}
+        - {x: -11, y: -13}
+        - {x: -9, y: -11}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: 4}
+        - {x: 6, y: 12}
+    - name: cleric_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: -1}
+        - {x: -16, y: -13}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 6}
+        - {x: 5, y: 16}
+    - name: cleric_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -10}
+        - {x: 11, y: 1}
+        - {x: 2, y: 16}
+    - name: cleric_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -10, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -8}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 11}
+    - name: cleric_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: 13, y: 6}
+        - {x: 11, y: 14}
+        - {x: 4, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 11}
+        - {x: -11, y: -11}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 0}
+        - {x: 6, y: 2}
+        - {x: 10, y: -1}
+    - name: cleric_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -10}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: cleric_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -10}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 4}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -4}
+        - {x: 10, y: 1}
+        - {x: 4, y: 16}
+    - name: cleric_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 9}
+        - {x: -10, y: -11}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -3}
+        - {x: 10, y: 6}
+    - name: cleric_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 11}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -10}
+        - {x: 10, y: 10}
+        - {x: 7, y: 16}
+    - name: cleric_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -1, y: 14}
+        - {x: -8, y: 12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 5}
+    - name: cleric_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -7, y: 10}
+        - {x: -8, y: 3}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: 1}
+        - {x: 11, y: 5}
+        - {x: 7, y: 12}
+    - name: cleric_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -8, y: 5}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -1}
+        - {x: 11, y: 5}
+        - {x: 5, y: 11}
+    - name: cleric_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -4}
+        - {x: 11, y: -1}
+        - {x: 10, y: 2}
+    - name: cleric_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 2}
+        - {x: -10, y: 2}
+        - {x: -12, y: 0}
+        - {x: -12, y: -5}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -12}
+        - {x: 11, y: -4}
+    - name: cleric_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -4}
+        - {x: -15, y: -5}
+        - {x: -15, y: -11}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -11}
+        - {x: 5, y: -4}
+    - name: cleric_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -6}
+        - {x: -13, y: -7}
+        - {x: -15, y: -11}
+        - {x: -15, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -11}
+        - {x: 5, y: -6}
+    - name: cleric_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 8}
+        - {x: -12, y: 0}
+        - {x: -12, y: -4}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 3}
+        - {x: -11, y: -7}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+    - name: cleric_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+    - name: cleric_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 3}
+        - {x: -11, y: -7}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 7}
+    - name: cleric_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -9}
+        - {x: 10, y: 4}
+        - {x: 8, y: 14}
+    - name: cleric_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -1}
+        - {x: 11, y: 5}
+        - {x: 7, y: 12}
+    - name: cleric_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: 3}
+        - {x: 11, y: 11}
+    - name: cleric_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 16}
+    - name: cleric_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -3}
+        - {x: 11, y: 16}
+    - name: cleric_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -9}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 14}
+        - {x: 9, y: 16}
+    - name: cleric_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: -9}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -3}
+        - {x: 11, y: 12}
+        - {x: 7, y: 16}
+    - name: cleric_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -5, y: 16}
+        - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -13}
+        - {x: 9, y: 7}
+    - name: cleric_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -12, y: 0}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 9}
+        - {x: 6, y: 16}
+    - name: cleric_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 5}
+        - {x: -13, y: -7}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 8}
+        - {x: 6, y: 16}
+    - name: cleric_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 4}
+        - {x: -13, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 6, y: 16}
+    - name: cleric_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -13, y: -4}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -13}
+        - {x: 9, y: 7}
+        - {x: 6, y: 16}
+    - name: cleric_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -8}
+        - {x: 9, y: 3}
+        - {x: 8, y: 12}
+        - {x: 3, y: 16}
+        - {x: -4, y: 16}
+        - {x: -9, y: 12}
+        - {x: -13, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 13}
+        - {x: -13, y: -5}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -13}
+        - {x: 9, y: 9}
+        - {x: 6, y: 16}
+    - name: cleric_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -15}
+        - {x: 10, y: -5}
+        - {x: 10, y: 2}
+        - {x: 7, y: 12}
+        - {x: 4, y: 16}
+        - {x: -5, y: 16}
+        - {x: -9, y: 13}
+        - {x: -13, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: cleric_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 6}
+        - {x: -12, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 8}
+        - {x: 6, y: 16}
+    - name: cleric_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -13, y: 3}
+        - {x: -13, y: -10}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 16}
+    - name: cleric_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -5, y: 16}
+        - {x: -10, y: 8}
+        - {x: -12, y: -3}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -9}
+        - {x: 9, y: 2}
+        - {x: 8, y: 12}
+    - name: cleric_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -12, y: 0}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -13}
+        - {x: 9, y: 7}
+        - {x: 5, y: 16}
+    - name: cleric_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 6, y: 16}
+    - name: cleric_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 11}
+        - {x: -11, y: -13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -10}
+        - {x: 9, y: 5}
+        - {x: 7, y: 12}
+    - name: cleric_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -11, y: 13}
+        - {x: -16, y: -2}
+        - {x: -16, y: -11}
+        - {x: -15, y: -14}
+        - {x: -11, y: -13}
+        - {x: -9, y: -11}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: cleric_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -12, y: 13}
+        - {x: -16, y: 2}
+        - {x: -16, y: -14}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 12}
+        - {x: 5, y: 16}
+    - name: cleric_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -12}
+        - {x: 11, y: -3}
+        - {x: 6, y: 12}
+    - name: cleric_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 12}
+        - {x: 4, y: 16}
+    - name: cleric_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -1}
+        - {x: 13, y: 1}
+        - {x: 13, y: 9}
+        - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 0}
+        - {x: 6, y: 2}
+    - name: cleric_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -9, y: 16}
+        - {x: -10, y: 12}
+        - {x: -10, y: -13}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -2}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: cleric_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 13}
+        - {x: -11, y: -3}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -13}
+        - {x: 9, y: 7}
+        - {x: 5, y: 16}
+    - name: cleric_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 13}
+        - {x: -12, y: -1}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -8}
+        - {x: 10, y: 7}
+        - {x: 8, y: 16}
+    - name: cleric_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -12}
+        - {x: 10, y: 10}
+        - {x: 8, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -8}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+    - name: cleric_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -8, y: 12}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -6}
+        - {x: 10, y: 9}
+        - {x: 5, y: 16}
+    - name: cleric_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -1, y: 13}
+        - {x: -8, y: 11}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 11, y: -8}
+        - {x: 11, y: 8}
+    - name: cleric_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 8}
+        - {x: 8, y: 11}
+    - name: cleric_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -8, y: 6}
+        - {x: -8, y: -13}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 6}
+        - {x: 3, y: 10}
+    - name: cleric_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 7}
+        - {x: -7, y: 7}
+        - {x: -11, y: 5}
+        - {x: -11, y: -10}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -12}
+        - {x: 11, y: 0}
+        - {x: 10, y: 2}
+    - name: cleric_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: -7, y: 1}
+        - {x: -12, y: -1}
+        - {x: -13, y: -4}
+        - {x: -13, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: -6}
+    - name: cleric_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -2}
+        - {x: -12, y: -2}
+        - {x: -15, y: -5}
+        - {x: -15, y: -13}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -12}
+        - {x: 5, y: -5}
+    - name: cleric_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -7}
+        - {x: -16, y: -10}
+        - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -11}
+        - {x: 2, y: -7}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

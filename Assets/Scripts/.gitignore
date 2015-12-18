@@ -1,0 +1,10 @@
+*.*
+!*/*.cs.meta
+!*/*.cs
+!*.cs.meta
+!*.cs
+
+!*/README.md
+
+!.gitignore
+!README.md

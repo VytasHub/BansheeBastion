@@ -1,0 +1,9 @@
+*.*
+!*/*.png
+
+!*/*.png.meta
+
+!*/README.md
+
+!.gitignore
+!README.md

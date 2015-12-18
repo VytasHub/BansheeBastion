@@ -1,0 +1,9 @@
+*.*
+!*.meta
+!*/README.md
+
+!*/*.prefab
+!*/*.prefab.meta
+
+!.gitignore
+!README.md
