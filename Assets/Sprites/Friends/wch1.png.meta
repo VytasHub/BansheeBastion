@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: abee6951a07f95245891f267e4262598
+timeCreated: 1450436932
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wch1_0
+    21300002: wch1_1
+    21300004: wch1_2
+    21300006: wch1_3
+    21300008: wch1_4
+    21300010: wch1_5
+    21300012: wch1_6
+    21300014: wch1_7
+    21300016: wch1_8
+    21300018: wch1_9
+    21300020: wch1_10
+    21300022: wch1_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wch1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24}
+        - {x: -18.5, y: 16}
+        - {x: -18.5, y: -24}
+        - {x: -3.5, y: -24}
+        - {x: 0.5, y: -21}
+        - {x: 0.5, y: 24}
+    - name: wch1_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24}
+        - {x: -18.5, y: 19}
+        - {x: -18.5, y: -24}
+        - {x: -2.5, y: -24}
+        - {x: 0.5, y: -11}
+        - {x: 0.5, y: 24}
+    - name: wch1_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -18.5, y: 14}
+        - {x: -18.5, y: -24}
+        - {x: 1.5, y: -24}
+        - {x: 2.5, y: -18}
+        - {x: 2.5, y: 24}
+    - name: wch1_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 24.5}
+        - {x: -18.5, y: 16.5}
+        - {x: -18.5, y: -13.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 0.5, y: -24.5}
+        - {x: 0.5, y: 23.5}
+        - {x: -0.5, y: 24.5}
+    - name: wch1_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24.5}
+        - {x: -18.5, y: 20.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -0.5, y: -24.5}
+        - {x: -0.5, y: 24.5}
+    - name: wch1_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 24.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -18.5, y: -24.5}
+        - {x: -3.5, y: -24.5}
+        - {x: 1.5, y: -12.5}
+        - {x: 1.5, y: 16.5}
+        - {x: -1.5, y: 24.5}
+    - name: wch1_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24.5}
+        - {x: -18.5, y: -24.5}
+        - {x: -3.5, y: -24.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 6.5, y: 12.5}
+        - {x: -2.5, y: 24.5}
+    - name: wch1_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 24.5}
+        - {x: -18.5, y: 24.5}
+        - {x: -18.5, y: -24.5}
+        - {x: -4.5, y: -24.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 18.5, y: 22.5}
+    - name: wch1_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 24.5}
+        - {x: -18.5, y: 24.5}
+        - {x: -18.5, y: -24.5}
+        - {x: -4.5, y: -24.5}
+        - {x: -4.5, y: -22.5}
+        - {x: 18.5, y: 3.5}
+        - {x: 18.5, y: 13.5}
+    - name: wch1_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 26
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wch1_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 26
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wch1_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 26
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
